@@ -1,7 +1,7 @@
 // ==========================
 // 1. Intro Screen
 // ==========================
-export const firstHeading = "A Cutiepie was born today, 20 years ago!"
+export const firstHeading = "A Mera Bachaaa was born today, 20 years ago!"
 // Main heading text - Change this text as you like
 
 export const firstSubtext = "Yes, it’s YOU! A little surprise awaits..."
@@ -12,7 +12,7 @@ export const firstSubtext = "Yes, it’s YOU! A little surprise awaits..."
 // 2. Cake Screen
 // ==========================
 // Add recipient's name here.
-export const NAME = "Cutiepiee!"
+export const NAME = "Mera Bachaaa!"
 
 
 // ==========================
@@ -37,7 +37,7 @@ export const photos = [
 export const messageScreenHeading = "A Special Message"
 // Heading above card - Change this text as you like
 
-export const specialMessage = `Happy Birthday, Cutiepie! You deserve all the happiness, love, and smiles in the world today and always. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that make your heart happy. You’re truly one of a kind, and I just want you to know how special you are. Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness, success, and all the sweet things life has to offer. 💗`
+export const specialMessage = `Happy Birthday, My Babyyy! You deserve all the happiness, love, and smiles in the world today and always. You have this special way of making everything around you brighter, your smile, your kindness, and the way you make people feel truly cared for. I hope your day is filled with laughter, surprises, and moments that make your heart happy. You’re truly one of a kind, and I just want you to know how special you are. Keep being the amazing person you are, spreading joy wherever you go. Wishing you endless happiness, success, and all the sweet things life has to offer. 💗`
 // Main special message (you can edit freely)
 
 
